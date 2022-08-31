@@ -10,7 +10,7 @@ anual income.
 ![diagram](assets/abstractionExercise.drawio.svg)
   
 
-##### :round_pushpin:Details:
+#### :round_pushpin:Details:
 ##### Individual:
 ###### A person who income was lower than 20000.00 pay 15% of tax.
 ###### A person who income was above 20000.00 pay 25% of tax.
