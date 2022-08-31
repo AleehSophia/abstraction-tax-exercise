@@ -1,3 +1,4 @@
+<center>
 # :sparkles:About the project:sparkles:
 
 ### :dart:Description:
@@ -22,3 +23,5 @@ anual income.
 
 ### :magic_wand:Output:
 ![output](assets/output.png)
+
+</center>
