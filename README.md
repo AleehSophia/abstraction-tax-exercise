@@ -19,3 +19,6 @@ anual income.
 ##### Company:
 ###### Companies pay 16% in taxes.
 ###### If the company have more than 10 employees, they pay 14% in taxes.
+
+### :magic_wand:Output:
+![output](assets/output.png)
